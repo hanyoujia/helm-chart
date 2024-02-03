@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helloworld-helm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2024-02-02T22:38:50.099201-05:00"
+    description: A sample hello world helm chart
+    digest: 1141d6aae231ff310ba0a70efc66f433ccb43a6efb560daa20eabaa47c77ec95
+    name: helloworld-helm
+    urls:
+    - helloworld-helm-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-02-02T22:38:50.096194-05:00"
